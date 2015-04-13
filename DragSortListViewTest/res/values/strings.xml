@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DragSortListViewTest</string>
+
+    <string-array name="mlb_team">
+        <item>Orioles</item>
+        <item>Blue Jays</item>
+        <item>Red Sox</item>
+        <item>Yankees</item>
+        <item>Tigers</item>
+        <item>Indians</item>
+    </string-array>
+
+</resources>
